@@ -1,5 +1,7 @@
-nlpy - A NLP tookit focusing on high level tasks (in process)
+nlpy - A NLP tookit focusing on high level tasks 
 ===
+
+(still in process)
 
 ### Installation
 ```bash
