@@ -1,17 +1,26 @@
-A NLP tookit focusing on high level tasks
+nlpy - A NLP tookit focusing on high level tasks (in process)
 ===
+
+### Installation
+```bash
+$ pip install nlpy
+```
+or
+```bash
+$ git clone https://github.com/zomux/nlpy.git
+```
 
 ### Semantic Searching
 
 ```python
 >>> from nlpy.tasks import SemanticSearcher
 >>> searcher = SemanticSearcher()
->>> searcher.load_data(["Dogs are good friends for human beings.", "New tennis court has been built in the scool."])
+>>> searcher.load_data(["Dogs are good friends for human beings.", "New tennis court has been built in the school."])
 >>> searcher.search("I want a pet.")
 Dogs are good friends for human beings.
 ```
 
 
-A list of NLP softwares based on Python
+A list of other NLP softwares based on Python
 ===
 
