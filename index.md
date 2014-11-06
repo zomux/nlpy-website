@@ -10,6 +10,11 @@ or
 $ git clone https://github.com/zomux/nlpy.git
 ```
 
+### Requirements
+- nltk (for general pre-processing)
+- gensim (for word2vec)
+- numpy
+
 ### Semantic Searching
 
 ```python
