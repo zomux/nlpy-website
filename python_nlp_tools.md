@@ -1,10 +1,15 @@
 A list of NLP tools based on Python
 ===
 
-(And what you can do with them)
+> And what you can do with them
 
 ### General purpose
 
+- [nltk](http://www.nltk.org)
+  - tokenization
+  - POS tagging
+  - CFG Parsing
+  - IBM models
 
 ### Semantics (Vector space model, topic model, ...)
 
