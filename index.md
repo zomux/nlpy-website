@@ -1,6 +1,8 @@
 nlpy - A NLP tookit focusing on high level tasks 
 ===
 
+---
+
 (still in process)
 
 ### Installation
@@ -27,6 +29,7 @@ $ git clone https://github.com/zomux/nlpy.git
 Dogs are good friends for human beings.
 ```
 
+---
 
 A list of other NLP tools based on Python
 ===
