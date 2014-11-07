@@ -28,6 +28,8 @@ Dogs are good friends for human beings.
 ```
 
 
-A list of other NLP softwares based on Python
+A list of other NLP tools based on Python
 ===
+
+This page: [/python_nlp_tools.md](/python_nlp_tools.md)
 
