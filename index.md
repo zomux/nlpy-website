@@ -3,7 +3,7 @@ nlpy - A NLP tookit focusing on high level tasks
 
 ---
 
-(still in process)
+(still in process, any question -> @raphaelshu )
 
 ### Installation
 ```bash
